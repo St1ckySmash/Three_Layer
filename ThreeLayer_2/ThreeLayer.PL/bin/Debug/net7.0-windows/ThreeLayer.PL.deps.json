@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ThreeLayer.PL/1.0.0": {
+        "dependencies": {
+          "ThreeLayer.BLL": "1.0.0",
+          "ThreeLayer.Common": "1.0.0",
+          "ThreeLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "ThreeLayer.PL.dll": {}
+        }
+      },
+      "ThreeLayer.BLL/1.0.0": {
+        "dependencies": {
+          "ThreeLayer.DAL": "1.0.0",
+          "ThreeLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "ThreeLayer.BLL.dll": {}
+        }
+      },
+      "ThreeLayer.Common/1.0.0": {
+        "dependencies": {
+          "ThreeLayer.BLL": "1.0.0",
+          "ThreeLayer.DAL": "1.0.0"
+        },
+        "runtime": {
+          "ThreeLayer.Common.dll": {}
+        }
+      },
+      "ThreeLayer.DAL/1.0.0": {
+        "dependencies": {
+          "ThreeLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "ThreeLayer.DAL.dll": {}
+        }
+      },
+      "ThreeLayer.Entities/1.0.0": {
+        "runtime": {
+          "ThreeLayer.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreeLayer.PL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThreeLayer.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThreeLayer.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThreeLayer.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThreeLayer.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

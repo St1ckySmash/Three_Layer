@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeLayer.DAL", "..\ThreeLayer.DAL\ThreeLayer.DAL.csproj", "{B8515AD9-E26C-44AE-BD17-C6D5F10741CC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A51F8B4B-E161-44E4-ACF0-E28D8C84C43B} = {A51F8B4B-E161-44E4-ACF0-E28D8C84C43B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeLayer.BLL", "..\ThreeLayer.BLL\ThreeLayer.BLL.csproj", "{7CDA09A9-8562-465C-AC44-0AD1EE1F02D2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A51F8B4B-E161-44E4-ACF0-E28D8C84C43B} = {A51F8B4B-E161-44E4-ACF0-E28D8C84C43B}
+		{B8515AD9-E26C-44AE-BD17-C6D5F10741CC} = {B8515AD9-E26C-44AE-BD17-C6D5F10741CC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeLayer.Common", "..\ThreeLayer.Common\ThreeLayer.Common.csproj", "{5B6AED86-FFCC-4E15-A618-66EBD14F80C4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7CDA09A9-8562-465C-AC44-0AD1EE1F02D2} = {7CDA09A9-8562-465C-AC44-0AD1EE1F02D2}
+		{B8515AD9-E26C-44AE-BD17-C6D5F10741CC} = {B8515AD9-E26C-44AE-BD17-C6D5F10741CC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeLayer.Entities", "..\ThreeLayer.Entities\ThreeLayer.Entities.csproj", "{A51F8B4B-E161-44E4-ACF0-E28D8C84C43B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeLayer.PL", "..\ThreeLayer.PL\ThreeLayer.PL.csproj", "{BA20CD5F-153A-4786-97FE-3D1EA7C3B529}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5B6AED86-FFCC-4E15-A618-66EBD14F80C4} = {5B6AED86-FFCC-4E15-A618-66EBD14F80C4}
+		{7CDA09A9-8562-465C-AC44-0AD1EE1F02D2} = {7CDA09A9-8562-465C-AC44-0AD1EE1F02D2}
+		{A51F8B4B-E161-44E4-ACF0-E28D8C84C43B} = {A51F8B4B-E161-44E4-ACF0-E28D8C84C43B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8515AD9-E26C-44AE-BD17-C6D5F10741CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8515AD9-E26C-44AE-BD17-C6D5F10741CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8515AD9-E26C-44AE-BD17-C6D5F10741CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8515AD9-E26C-44AE-BD17-C6D5F10741CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDA09A9-8562-465C-AC44-0AD1EE1F02D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDA09A9-8562-465C-AC44-0AD1EE1F02D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDA09A9-8562-465C-AC44-0AD1EE1F02D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDA09A9-8562-465C-AC44-0AD1EE1F02D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6AED86-FFCC-4E15-A618-66EBD14F80C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6AED86-FFCC-4E15-A618-66EBD14F80C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6AED86-FFCC-4E15-A618-66EBD14F80C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6AED86-FFCC-4E15-A618-66EBD14F80C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51F8B4B-E161-44E4-ACF0-E28D8C84C43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51F8B4B-E161-44E4-ACF0-E28D8C84C43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51F8B4B-E161-44E4-ACF0-E28D8C84C43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51F8B4B-E161-44E4-ACF0-E28D8C84C43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA20CD5F-153A-4786-97FE-3D1EA7C3B529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA20CD5F-153A-4786-97FE-3D1EA7C3B529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA20CD5F-153A-4786-97FE-3D1EA7C3B529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA20CD5F-153A-4786-97FE-3D1EA7C3B529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F7BC1FF-1EFD-494E-B93D-29FC3E046F8A}
+	EndGlobalSection
+EndGlobal

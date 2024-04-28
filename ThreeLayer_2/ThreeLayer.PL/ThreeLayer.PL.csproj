@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<NoWarn>$(NoWarn);SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ThreeLayer.BLL\ThreeLayer.BLL.csproj" />
+    <ProjectReference Include="..\ThreeLayer.Common\ThreeLayer.Common.csproj" />
+    <ProjectReference Include="..\ThreeLayer.Entities\ThreeLayer.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

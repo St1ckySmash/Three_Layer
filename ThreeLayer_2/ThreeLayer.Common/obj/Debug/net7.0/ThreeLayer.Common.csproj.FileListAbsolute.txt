@@ -1,0 +1,76 @@
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.deps.json
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.BLL.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.DAL.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Entities.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.BLL.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.DAL.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Entities.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.AssemblyReference.cache
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.AssemblyInfoInputs.cache
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.AssemblyInfo.cs
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.CoreCompileInputs.cache
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.CopyComplete
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\refint\ThreeLayer.Common.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\OOP\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ref\ThreeLayer.Common.dll
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.AssemblyReference.cache
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.AssemblyInfoInputs.cache
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.AssemblyInfo.cs
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.CoreCompileInputs.cache
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.dll
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\refint\ThreeLayer.Common.dll
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.pdb
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.deps.json
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.dll
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.pdb
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.BLL.dll
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.DAL.dll
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Entities.dll
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.BLL.pdb
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.DAL.pdb
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Entities.pdb
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.CopyComplete
+C:\Users\Krab1o\Desktop\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ref\ThreeLayer.Common.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.deps.json
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.BLL.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.DAL.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Entities.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.BLL.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.DAL.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Entities.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.AssemblyReference.cache
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.AssemblyInfoInputs.cache
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.AssemblyInfo.cs
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.CoreCompileInputs.cache
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.CopyComplete
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\refint\ThreeLayer.Common.dll
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.pdb
+E:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ref\ThreeLayer.Common.dll
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.deps.json
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.dll
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Common.pdb
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.BLL.dll
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.DAL.dll
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Entities.dll
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.BLL.pdb
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.DAL.pdb
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\bin\Debug\net7.0\ThreeLayer.Entities.pdb
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.AssemblyReference.cache
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.AssemblyInfoInputs.cache
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.AssemblyInfo.cs
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.CoreCompileInputs.cache
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.csproj.CopyComplete
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.dll
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\refint\ThreeLayer.Common.dll
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ThreeLayer.Common.pdb
+D:\!code\C-code\Bogdan\sem 4\АиСД\ThreeLayer_2\ThreeLayer_2\ThreeLayer.Common\obj\Debug\net7.0\ref\ThreeLayer.Common.dll

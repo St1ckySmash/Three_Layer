@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<NoWarn>$(NoWarn);SYSLIB0011</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ThreeLayer.DAL\ThreeLayer.DAL.csproj" />
+    <ProjectReference Include="..\ThreeLayer.Entities\ThreeLayer.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
